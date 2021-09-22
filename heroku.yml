@@ -4,4 +4,4 @@ build:
   languages:
     - python
   docker:
-    worker: Dockerfile
+    worker: Dockerfile.heroku
