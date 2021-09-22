@@ -1,5 +1,5 @@
 build: 
+  languages:
+    - python
   docker:
     worker: Dockerfile.heroku
-  language:
-  - python
