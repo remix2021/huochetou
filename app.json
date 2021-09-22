@@ -1,1 +1,7 @@
-
+{
+  "name": "testfordebain",
+  "description": "...",
+  "website": "https://github.com/remix2021/huochetou",
+  "repository": "https://github.com/remix2021/huochetou",
+  "success_url": "/"
+}
